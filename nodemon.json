@@ -1,0 +1,5 @@
+{
+  "exec": "yarn build && node server.js",
+  "watch": ["src", "server.js"],
+  "ext": "tsx,js,jsx,ts"
+}
